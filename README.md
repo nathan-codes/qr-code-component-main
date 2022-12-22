@@ -39,7 +39,7 @@ I learnt the importance of understanding and working with the css box model and 
 ## Author
 
 - Website - [Nathan Turkson](https://www.your-site.com)
-- Frontend Mentor - [@nathan-codes](https://www.frontendmentor.io/profile/@nathan-codes)
+- Frontend Mentor - [@nathan-codes](https://www.frontendmentor.io/profile/nathan-codes)
 - Twitter - [@nathan_turkson](https://www.twitter.com/NathanTurkson)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
